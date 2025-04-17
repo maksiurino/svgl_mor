@@ -3555,5 +3555,11 @@ export const svgs: iSVG[] = [
     category: ['AI', 'Google'],
     route: '/library/firebase-studio.svg',
     url: 'https://firebase.studio/'
+  },
+  {
+    title: 'ASP.NET Core',
+    category: ['Software', 'Framework'],
+    route: '/library/asp.net.core.svg',
+    url: 'https://dotnet.microsoft.com/en-us/apps/aspnet'
   }
 ];
