@@ -3599,5 +3599,11 @@ export const svgs: iSVG[] = [
     },
     url: 'https://clerk.com/',
     brandUrl: 'https://clerk.com/design'
+  },
+  {
+    title: 'itch.io',
+    category: ['Software', 'Community'],
+    route: '/library/itchio.svg',
+    url: 'https://itch.io/'
   }
 ];
